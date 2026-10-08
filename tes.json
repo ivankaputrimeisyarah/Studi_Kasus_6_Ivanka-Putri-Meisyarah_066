@@ -1,0 +1,20 @@
+[
+    {
+        "Nama": "Tepung terigu",
+        "Kategori": "Bahan pokok",
+        "Stock": 30,
+        "Harga": 12000
+    },
+    {
+        "Nama": "Teh pucuk",
+        "Kategori": "Minuman",
+        "Stock": 20,
+        "Harga": 5000
+    },
+    {
+        "Nama": "Susu",
+        "Kategori": "Minuman",
+        "Stock": 26,
+        "Harga": 7000
+    }
+]
